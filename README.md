@@ -1,5 +1,7 @@
-# scrimba-instagram-stories-menu
-This project replicates an <strong>Instagram-style stories menu</strong> using <strong>HTML and CSS</strong>. It displays user profile pictures with dynamic indicators for <strong>new</strong> and <strong>viewed</strong> stories, along with a <strong>LIVE</strong> badge for active streams. The design mimics the familiar UI of Instagram stories, making it a great component for social media-inspired projects.
+<h1>Instagram Stories Menu 🚀</h1>
+<p>
+  This project replicates an <strong>Instagram-style stories menu</strong> using <strong>HTML and CSS</strong>. It displays user profile pictures with dynamic indicators for <strong>new</strong> and <strong>viewed</strong> stories, along with a <strong>LIVE</strong> badge for active streams. The design mimics the familiar UI of Instagram stories, making it a great component for social media-inspired projects.
+</p>
 <h2>✨ Features</h2>
 <ul>
   <li>
